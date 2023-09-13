@@ -495,8 +495,8 @@ input:-moz-placeholder {
     width: 155px;
     height: auto;
 }
-.at-navbar .navbar-brand.exp img {
-    width: 100px;
+.at-navbar .navbar-brand.logo img {
+    width: 120px;
     height: auto;
     margin-left: 10px;
 }
