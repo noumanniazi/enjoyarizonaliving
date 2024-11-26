@@ -51,14 +51,26 @@
 
 .call-to-action-wrapper {
   padding-top: 10px;
+  font-weight: bold;
+}
+
+.call-to-action {
+  display: flex;
+  flex-direction: row;
 }
 
 .call-to-action .fa-link {
+  line-height: 26px;
   color: #CC935C;
 }
 
 .call-to-action-icon {
   padding-right: 8px;
+}
+
+.cta-red {
+  text-transform: uppercase;
+  color: red;
 }
 
 .list {
